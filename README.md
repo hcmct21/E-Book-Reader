@@ -39,3 +39,6 @@
    ```bash
    git clone https://github.com/tonight386/SachDienTu.git
    cd SachDienTu
+   Update
+
+
